@@ -52,6 +52,7 @@ The setup includes one Windows Server (acting as Domain Controller + DHCP), one 
 |  <img width="478" height="326" alt="switch-cfg" src="https://github.com/user-attachments/assets/059e25d0-3463-488f-981a-ebd5b441d84b" />| Switch configuration showing VLANs and trunk/access ports |
 |  <img width="1920" height="1080" alt="server-cfg" src="https://github.com/user-attachments/assets/02d8fe0f-ef06-4a0f-b0a7-c3196a191cdc" />| Server configuration showing static IP and DHCP scope setup |
 | <img width="1678" height="829" alt="client-dynamic-ip" src="https://github.com/user-attachments/assets/2e794ab2-93d2-40dc-861f-05e838832c18" /> | Client computer showing dynamic IP assignment from DHCP |
+| <img width="1024" height="662" alt="image" src="https://github.com/user-attachments/assets/a7c7ce5a-c33d-403c-9e88-956e04b98093" />| Picture of Home Lab |
 
 *(All images should be placed in the `/images` folder.)*
 
